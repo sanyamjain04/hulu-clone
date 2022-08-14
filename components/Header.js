@@ -14,6 +14,7 @@ const Header = () => {
       </div>
 
       <Image
+      alt=""
         className="object-contain"
         src="https://links.papareact.com/ua6"
         width={100}

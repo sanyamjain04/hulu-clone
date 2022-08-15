@@ -8,7 +8,7 @@ const Results = ({ results }) => {
       {results.map((result) => (
         <Thumbnail key={result.id} result={result} />
       ))}
-      <h1>heloo</h1>
+      
     </FlipMove>
   );
 };
